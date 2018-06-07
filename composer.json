@@ -1,0 +1,32 @@
+{
+  "name": "yii2-bridge/slug-behavior",
+  "description": "Slug behavior for Bridge",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "bridge",
+    "slug",
+    "sluggable",
+    "admin",
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Altynbek Kazezov",
+      "email": "altinbek__97@mail.ru",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "naffiq\\bridge\\behaviors\\": "src/behaviors/"
+    }
+  },
+  "minimum-stability": "stable",
+  "require": {
+    "zelenin/yii2-slug-behavior": "^1.5"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.4"
+  }
+}
