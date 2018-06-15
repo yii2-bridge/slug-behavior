@@ -1,6 +1,6 @@
 <?php
 
-namespace naffiq\bridge\behaviors
+namespace Bridge\Slug;
 
 
 use Zelenin\yii\behaviors\Slug;

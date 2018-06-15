@@ -1,5 +1,5 @@
 <?php
-use naffiq\bridge\behaviors\BridgeSlugBehavior;
+use Bridge\Slug\BridgeSlugBehavior;
 
 class BridgeSlugBehaviorTest extends \PHPUnit\Framework\TestCase
 {

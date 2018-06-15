@@ -19,7 +19,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "naffiq\\bridge\\behaviors\\": "src/behaviors/"
+      "Bridge\\Slug\\": "src/behaviors/"
     }
   },
   "minimum-stability": "stable",

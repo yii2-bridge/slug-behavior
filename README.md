@@ -23,7 +23,7 @@ public function behaviors()
 {
     return [
         'slug' => [
-            'class' => 'naffiq\bridge\behaviors\BridgeSlugBehavior',
+            'class' => 'Bridge\Slug\BridgeSlugBehavior',
             'slugAttribute' => 'slug',
             'attribute' => 'title',
             // If intl extension is enabled, see http://userguide.icu-project.org/transforms/general.
