@@ -7,7 +7,7 @@
     "bridge",
     "slug",
     "sluggable",
-    "admin",
+    "admin"
   ],
   "license": "BSD-3-Clause",
   "authors": [
